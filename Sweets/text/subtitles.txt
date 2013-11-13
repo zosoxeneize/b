@@ -1,0 +1,6 @@
+vignette
+size 25%
+strength, fade - 50%
+
+cinema scope
+
